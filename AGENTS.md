@@ -1,0 +1,1 @@
+- Keep the car gallery as a single image-led home route with imported, locally generated studio views; this preserves a consistent shoot and avoids relying on the inaccessible source listing.

@@ -1,0 +1,3 @@
+- [x] Make realistic studio edits of the supplied car views, retaining visible plates and details.
+- [x] Build a polished image-focused gallery for the car.
+- [x] Verify desktop and mobile gallery and image fidelity.
